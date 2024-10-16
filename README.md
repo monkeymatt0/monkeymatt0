@@ -11,13 +11,15 @@
 
 ## Projects
 
-### 🌎 CryptoPay Gateway
+Qui potrete elencare i vostri progetti passati e in corso, dando visibilità e facile accesso al vostro codice.
+
+### 🌎 Project - CryptoPay Gateway
 
 🚀 CryptoPay Gateway:
 A crypto payment gateway for websites and e-commerce platforms, enabling businesses to accept, Ethereum based token, and stablecoins directly from users’ wallets. It offers real-time transaction verification and transparent payment status updates.
 
 - FE Angular
-- BE : Python - Django restframework
+- BE : Python - Django restframework, PostgreSQL
 - SDKs : Web3.js, Web3.py
 
 ##
