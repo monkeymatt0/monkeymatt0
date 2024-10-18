@@ -24,5 +24,4 @@ A crypto payment gateway for websites and e-commerce platforms, enabling busines
 
 - 🔭 I’m currently working on usememos and CryptoPay Gateway
 - 🌱 I’m currently learning Solidity and kubernetes
-- 👯 I’m looking to collaborate on blockchain projects
 - 😄 Pronouns: He/Him
