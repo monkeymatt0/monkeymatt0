@@ -1,6 +1,6 @@
 ## Welcome to Matteo Vollero's GitHub page! 🔥
 
-🔧 Specializing in Golang and Python, I’ve developed secure and scalable APIs, streamlined compliance processes, and improved platform performance across industries. Currently, I’m deep diving into these technologies with a strong focus on making an impact in the blockchain and crypto industry.
+🔧 Specializing in Golang and Python, I’ve developed secure and scalable APIs, streamlined compliance processes, and improved platform performance across industries. Currently, I’m deep diving into these technologies.
 
 💬 With experience in mentoring developers and bring value into backend projects, I’m always open for discussions and collaborations. Let’s connect and build innovative solutions together!
 
@@ -10,8 +10,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=monkeymatt0&theme=github-compact)](https://github.com/monkeymatt0/github-readme-activity-graph)
 
 ## Projects
-
-Qui potrete elencare i vostri progetti passati e in corso, dando visibilità e facile accesso al vostro codice.
 
 ### 🌎 Project - CryptoPay Gateway
 
