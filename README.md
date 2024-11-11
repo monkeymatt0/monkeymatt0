@@ -11,20 +11,25 @@
 
 ## Projects
 
-### 🌎 Project - CryptoPay Gateway
+### 🌎 Project - Core trade bot
 
-🚀 CryptoPay Gateway:
-A crypto payment gateway for websites and e-commerce platforms, enabling businesses to accept, Ethereum based token, and stablecoins directly from users’ wallets. It offers real-time transaction verification and transparent payment status updates.
+🚀 Core trade bot(Private):
+Core trade bot is a trading bot I'm building in golang which aims to trade using a strategy in order to create passive income
 
-- FE Angular
-- BE : Python - Django restframework, PostgreSQL
-- SDKs : Web3.js, Web3.py
+- Golang, go-talib
+
+### 🌎 Project - Triangular arbitrage bot
+
+🚀 Triangular arbitrage bot:
+Triangular arbitrage it's an explorative bot, which aims to continuosly check for certain pair and try to spot discrepancy to check for opportunity
+
+- Golang, gorillawebsocket
 
 ##
 
 - 🔭 I’m currently contributing on usememos
-- 🔭 I’m currently developing cryptoPay Gateway
-- 🌱 I’m currently learning Solidity and kubernetes
+- 🔭 I’m currently developing Core trade bot and Triangular arbitrage bot
+- 🌱 I’m currently learning kubernetes
 - 😄 Pronouns: He/Him
 
 <!--
