@@ -13,7 +13,7 @@
 
 ### 🌎 Project - Core trade bot
 
-🚀 Core trade bot(Private):
+🚀 Core trade bot:
 Core trade bot is a trading bot I'm building in golang which aims to trade using a strategy in order to create passive income
 
 - Golang, go-talib
