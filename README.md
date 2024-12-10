@@ -29,7 +29,7 @@ Triangular arbitrage it's an explorative bot, which aims to continuosly check fo
 
 - 🔭 I’m currently contributing on usememos
 - 🔭 I’m currently developing Core trade bot and Triangular arbitrage bot
-- 🌱 I’m currently learning kubernetes
+- 🌱 I’m currently learning terraform
 - 😄 Pronouns: He/Him
 
 <!--
